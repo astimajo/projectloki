@@ -1,0 +1,28 @@
+body {
+    background-image: url('1201180.jpg');
+}
+#top {
+    height: 150px;
+}
+#nav-bar {
+    float: right;
+    display: -ms-flexbox;
+}
+#title {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    display: flexbox;
+    margin-left: 35%;
+    margin-right: 30%;
+    margin-top: 10%;
+}
+#viz1638807219585 {
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    align-self: center;
+    box-sizing: border-box;
+    width: 100%;
+    height: 60px;
+}
